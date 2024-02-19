@@ -39,5 +39,3 @@ optuna==3.1.0
 matplotlib==3.7.2
 scikit-learn==1.3.0
 statsmodels==0.14.0
-
-## Citation
