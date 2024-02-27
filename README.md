@@ -39,3 +39,18 @@ optuna==3.1.0
 matplotlib==3.7.2
 scikit-learn==1.3.0
 statsmodels==0.14.0
+
+## Citation
+@article{lin2022predicting,
+doi = {},
+author = {Irie-Ota, Matsui, Imai, et al.},
+journal = {PLOS ONE},
+title = {Predicting postoperative visual acuity in epiretinal membrane patients and visualization of the contribution of explanatory variables in a machine learning model},
+year = {2024},
+month = {03},
+volume = {},
+url = {},
+pages = {},
+number = {},
+}
+
