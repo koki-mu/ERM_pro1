@@ -1,4 +1,4 @@
-# Personalized Medicine for ERM Patients: Predicting Postoperative Visual Acuity with SHAP
+# Predicting postoperative visual acuity in ERM patients and analyzing variables using machine learning
 
 Code for our PLOS ONE paper:
 
