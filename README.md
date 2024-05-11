@@ -44,16 +44,13 @@ statsmodels==0.14.0
 
 ## Citation
 ```
-@article{,
-doi = {},
-author = {Irie-Ota, Matsui, Imai, et al.},
+@article{
+doi = {10.1371/journal.pone.0304281},
+author = {Irie-Ota, Akiko and Matsui, Yoshitsugu and Imai, Koki and Mase, Yoko and Konno, Keiichiro and Sasaki, Taku and Chujo, Shinichiro and Matsubara, Hisashi and Kawanaka, Hiroharu and Kondo, Mineo},
 journal = {PLOS ONE},
 title = {Predicting postoperative visual acuity in epiretinal membrane patients and visualization of the contribution of explanatory variables in a machine learning model},
 year = {2024},
-month = {03},
-volume = {},
-url = {},
-pages = {},
-number = {},
+month = {05},
+url = {https://doi.org/10.1371/journal.pone.0304281},
 }
 ```
