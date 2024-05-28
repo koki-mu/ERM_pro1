@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/758835468.svg)](https://zenodo.org/badge/latestdoi/758835468)
+
 # Predicting postoperative visual acuity in ERM patients and analyzing variables using machine learning
 
 Code for our PLOS ONE paper:
